@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-06T19:30:46 IST" name="Suite" finished-at="2022-12-06T19:34:36 IST" duration-ms="229823">
+    <groups>
+    </groups>
+    <test started-at="2022-12-06T19:30:46 IST" name="Test" finished-at="2022-12-06T19:34:36 IST" duration-ms="229823">
+      <class name="Com.internetbaning.TestCases.TC_LoginDataTest_004">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:32:37 IST" name="initialization" finished-at="2022-12-06T19:32:51 IST" duration-ms="14211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:32:51 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-06T19:33:05 IST" duration-ms="13597" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr456247]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pYnYvUn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:33:05 IST" name="tearDown" finished-at="2022-12-06T19:33:08 IST" duration-ms="3113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:33:08 IST" name="initialization" finished-at="2022-12-06T19:33:20 IST" duration-ms="12091" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:33:20 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-06T19:33:24 IST" duration-ms="4218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr456247]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pYnYvU]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:33:24 IST" name="tearDown" finished-at="2022-12-06T19:33:27 IST" duration-ms="3117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:33:27 IST" name="initialization" finished-at="2022-12-06T19:33:42 IST" duration-ms="15081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:33:42 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-06T19:33:50 IST" duration-ms="7600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr45624]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pYnYvUn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:33:50 IST" name="tearDown" finished-at="2022-12-06T19:33:53 IST" duration-ms="3111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:33:53 IST" name="initialization" finished-at="2022-12-06T19:34:07 IST" duration-ms="13673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:34:07 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-06T19:34:13 IST" duration-ms="6091" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr45624]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pnYvUn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:34:13 IST" name="tearDown" finished-at="2022-12-06T19:34:16 IST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:34:16 IST" name="initialization" finished-at="2022-12-06T19:34:28 IST" duration-ms="12215" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:34:28 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-06T19:34:33 IST" duration-ms="4602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbaning.TestCases.TC_LoginDataTest_004@17a7f733]" started-at="2022-12-06T19:34:33 IST" name="tearDown" finished-at="2022-12-06T19:34:36 IST" duration-ms="3168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.internetbaning.TestCases.TC_LoginDataTest_004 -->
+      <class name="Com.internetbaning.TestCases.TC_AccountCreation_003">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.TC_AccountCreation_003@2118cddf]" started-at="2022-12-06T19:32:01 IST" name="initialization" finished-at="2022-12-06T19:32:13 IST" duration-ms="12336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="AddNewAccount()[pri:0, instance:Com.internetbaning.TestCases.TC_AccountCreation_003@2118cddf]" started-at="2022-12-06T19:32:13 IST" name="AddNewAccount" finished-at="2022-12-06T19:32:33 IST" duration-ms="19577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbaning.TestCases.TC_AccountCreation_003@2118cddf]" started-at="2022-12-06T19:32:33 IST" name="tearDown" finished-at="2022-12-06T19:32:36 IST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.internetbaning.TestCases.TC_AccountCreation_003 -->
+      <class name="Com.internetbaning.TestCases.NewCutomerTest">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.NewCutomerTest@6aaceffd]" started-at="2022-12-06T19:30:46 IST" name="initialization" finished-at="2022-12-06T19:31:01 IST" duration-ms="14827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="AddnewCutomer()[pri:0, instance:Com.internetbaning.TestCases.NewCutomerTest@6aaceffd]" started-at="2022-12-06T19:31:01 IST" name="AddnewCutomer" finished-at="2022-12-06T19:31:33 IST" duration-ms="32550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddnewCutomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbaning.TestCases.NewCutomerTest@6aaceffd]" started-at="2022-12-06T19:31:33 IST" name="tearDown" finished-at="2022-12-06T19:31:37 IST" duration-ms="3200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.internetbaning.TestCases.NewCutomerTest -->
+      <class name="Com.internetbaning.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.internetbaning.TestCases.LoginPageTest@5609159b]" started-at="2022-12-06T19:31:37 IST" name="initialization" finished-at="2022-12-06T19:31:52 IST" duration-ms="15305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginTest()[pri:0, instance:Com.internetbaning.TestCases.LoginPageTest@5609159b]" started-at="2022-12-06T19:31:52 IST" name="LoginTest" finished-at="2022-12-06T19:31:57 IST" duration-ms="5396" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at Com.internetbaning.TestCases.LoginPageTest.LoginTest(LoginPageTest.java:42)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Com.internetbaning.TestCases.LoginPageTest@5609159b]" started-at="2022-12-06T19:31:58 IST" name="tearDown" finished-at="2022-12-06T19:32:01 IST" duration-ms="3117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.internetbaning.TestCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
