@@ -8,6 +8,7 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 This is a continuation of log file C:\Users\RKENDRE\eclipse-workspace\.metadata\.bak_2.log
 Created Time: 2021-11-01 14:44:15.292
+Hello
 
 !ENTRY org.eclipse.ui 4 4 2021-11-01 14:44:15.292
 !MESSAGE To avoid deadlock while executing Display.syncExec() with argument: org.eclipse.ui.dialogs.WizardDataTransferPage$$Lambda$1812/0x00000001013f3e48@2d2c53ab, thread ModalContext will interrupt UI thread.
